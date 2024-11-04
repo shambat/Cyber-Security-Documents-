@@ -1,7 +1,3 @@
-Here's a summarized README file for your **Cyber Security Projects** repository:
-
----
-
 # Cyber Security Projects
 
 This repository showcases a collection of cybersecurity documents created through hands-on labs, research, and practical exercises. These documents cover a variety of cybersecurity areas, providing guides, configurations, and studies for learning and reference. Below is a summary of each document included:
